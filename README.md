@@ -7,6 +7,5 @@ For each part of application (database, server, frontend) type the following com
 npm install
 npm start
 ```
-
-then you can use the application locally at http://localhost:3000/
 You can log in to blogger using "ned" as a username and password to view current blogs.
+Then you can use the application locally at http://localhost:3000/
