@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+1-database/node_modules
+2-server/node_modules
+3-frontend/node_modules
+
+
+
+# misc
+
+.eslintcache
+/build
